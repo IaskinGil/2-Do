@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">2-Do</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_task_button">Add Task</string>
+    <string name="done_button">Done</string>
+    <string name="edit_button">Edit</string>
+    <string name="edit_message">Task Name</string>
+    <string name="create_button">Create</string>
+    <string name="back_button">Back</string>
+    <string name="title_activity_create_task">Create Task</string>
+    <string name="get_location">Get Location</string>
+    <string name="disconnect">Disconnect Service</string>
+    <string name="connect">Connect Service</string>
+    <string name="retrieve">GPS</string>
+    <string name="save_button">Save Location</string>
+    <string name="title_activity_location">Location Finder</string>
+</resources>
